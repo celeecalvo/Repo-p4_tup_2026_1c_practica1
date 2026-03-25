@@ -1,5 +1,6 @@
 bin/
 obj/
+.vscode/
 *.user
 *.rsuser
 ## Ignore Visual Studio temporary files, build results, and
