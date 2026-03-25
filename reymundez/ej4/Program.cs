@@ -4,7 +4,7 @@ string num1 = Console.ReadLine();
 Console.WriteLine("Ingresar el 2 numero: ");
 string num2 = Console.ReadLine();
 
-if (num1 == null || num2 == null)
+if (num1 == "" || num2 == "" || num1 == null || num2 == null)
 {
     Console.WriteLine("Error: No se ingresaron ambos números.");
 
